@@ -1,16 +1,24 @@
-## Hi there 👋
+# Business Intelligence Team
 
-<!--
-**Nucitec/Nucitec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Repositorio oficial del equipo de BI.
 
-Here are some ideas to get you started:
+Aquí documentamos y almacenamos:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Automatizaciones
+- Bots internos
+- Análisis de datos
+- Herramientas de optimización
+- Scripts de extracción de datos
+
+## Tecnologías utilizadas
+
+- Python
+- SQL
+- Power BI
+- Excel
+- APIs
+- Automatización
+
+## Objetivo
+
+Centralizar y documentar todas las soluciones de datos desarrolladas por el equipo.
